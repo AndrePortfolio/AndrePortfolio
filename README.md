@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andre Albuquerque</h1>
+<h1 align="center">Hi 👋, I'm André Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 - 🔭 I’m currently working on [philosophers](https://github.com/AndrePortfolio/philo)
