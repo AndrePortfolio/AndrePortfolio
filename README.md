@@ -69,7 +69,7 @@
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    <a href="https://github.com/btoksoez">cub3D</a> - Continuing to build upon the foundational skills acquired from <strong>so_long</strong>, I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my abilities in optimizing game rendering processes, further enriching my
+    <a href="https://github.com/btoksoez">cub3D</a> - Continuing to build upon the foundational skills acquired from <strong>so_long</strong>, I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my
 </p>
 
 <h3 align="left">Connect with me 🌐</h3>
@@ -79,10 +79,4 @@
   </a>
   
   <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
-  </a>
-</p>
-
-</body>
-</html>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/204
