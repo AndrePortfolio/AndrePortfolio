@@ -12,7 +12,7 @@
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="30" height="30">
   </a>
   
-  <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="30">
   </a>
 </p>
