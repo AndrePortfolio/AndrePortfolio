@@ -2,10 +2,10 @@
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/R0ErGoZ2b8c7VcYr6Q/giphy.gif" width="220" height="150">
-  <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="220" height="150">
-  <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="220" height="150">
-  <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="220" height="150">
+  <img src="https://media.giphy.com/media/R0ErGoZ2b8c7VcYr6Q/giphy.gif" width="210" height="150">
+  <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="210" height="150">
+  <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="210" height="150">
+  <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="210" height="150">
 </p>
 
 <h3 align="left">Skills 🛠</h3>
