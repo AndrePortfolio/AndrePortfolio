@@ -2,7 +2,9 @@
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <p align="left">
+  <img src="https://media.giphy.com/media/zmi796Qv8OjVGWpFeT/giphy.gif" width="200" height="150">
   <img src="https://media.giphy.com/media/S6agqOraQS41XKm3Yb/giphy.gif" width="200" height="150">
+  <img src="https://media.giphy.com/media/jnQh6KTVAZZZgmfbd2/giphy.gif" width="200" height="150">
   <img src="https://media.giphy.com/media/zmi796Qv8OjVGWpFeT/giphy.gif" width="200" height="150">
 </p>
 
