@@ -26,10 +26,11 @@ Other Skills and tools:
 
 <h3 align="left">Favourite Projects 🗂️</h3>
 <ul>
-    <li><strong>minishell:</strong> This group project involved the development of a custom shell, where we implemented various functionalities to mimic standard shell behavior, providing users with a seamless command-line interface experience.</li>
-    <li><strong>so_long:</strong> Within this project, I undertook the creation of a captivating 2D game enriched with Pokémon-themed graphics. The endeavor demanded meticulous attention to detail in both gameplay mechanics and visual aesthetics.</li>
-    <li><strong>push_swap:</strong> Through this project, I delved into the intricate world of sorting algorithms, gaining profound insights into their workings and applications. Leveraging stacks, I engineered efficient sorting mechanisms, further honing my problem-solving skills.</li>
+    <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell application, implementing essential functionalities for streamlined command-line interactions.</li>
+    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - Designed and programmed a captivating 2D game, featuring intricate Pokémon-themed graphics and immersive gameplay mechanics.</li>
+    <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms in a practical context, leveraging stacks to efficiently sort data sets.</li>
 </ul>
+
 
 <h3 align="left">Current Project 🔍</h3>
 <a href="https://github.com/btoksoez">cub3D</a> - This is the group project I am working on right now
