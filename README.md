@@ -42,8 +42,8 @@ Other Skills and tools:
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="40" height="40">
   </a>
   
-  <a href="[linkedin.com/in/andré-albuquerque](https://www.linkedin.com/in/andr%C3%A9-albuquerque/)" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="www.linkedin.com/in/andré-albuquerque" height="40" width="40">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
   </a>
 </p>
     </div>
