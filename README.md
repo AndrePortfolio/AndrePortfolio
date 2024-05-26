@@ -5,12 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
-📫 How to reach me:
-
-[<img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="50" height="50">](mailto:fxandrealb@gmail.com)
-
-
 <h3 align="left">Connect with me:</h3>
+[<img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="50" height="50">](mailto:fxandrealb@gmail.com)
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="40" /></a>
 </p>
