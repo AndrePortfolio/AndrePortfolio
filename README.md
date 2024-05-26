@@ -26,8 +26,8 @@ Other Skills and tools:
 
 <h3 align="left">Favourite Projects 🗂️</h3>
 <ul>
-    <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell application, implementing essential functionalities for streamlined command-line interactions.</li>
-    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - Designed and programmed a captivating 2D game, featuring intricate Pokémon-themed graphics and immersive gameplay mechanics.</li>
+    <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell, gained valuable skills about system interface bash and machines.</li>
+    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - Programmed my first 2D game, featuring Pokémon-themed graphics.</li>
     <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms in a practical context, leveraging stacks to efficiently sort data sets.</li>
 </ul>
 
