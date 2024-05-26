@@ -26,11 +26,10 @@ Other Skills and tools:
 
 <h3 align="left">Favourite Projects 🗂️</h3>
 <ul>
-    <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell, gained valuable skills about system interface bash and machines.</li>
-    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - Programmed my first 2D game, featuring Pokémon-themed graphics.</li>
-    <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms in a practical context, leveraging stacks to efficiently sort data sets.</li>
+    <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell implementation in C, gaining hands-on experience in system programming and bash scripting.</li>
+    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - Immersed myself in graphics programming, bringing to life my first 2D game inspired by the world of Pokémon.</li>
+    <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
 </ul>
-
 
 <h3 align="left">Current Project 🔍</h3>
 <a href="https://github.com/btoksoez">cub3D</a> - This is the group project I am working on right now
