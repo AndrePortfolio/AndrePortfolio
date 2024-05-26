@@ -4,6 +4,26 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Conditional Rendering Based on Dark Mode</title>
+<script>
+  // Function to check if the user prefers dark mode
+  function isDarkMode() {
+    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  // Function to display content based on dark mode preference
+  function displayContentBasedOnMode() {
+    if (isDarkMode()) {
+      console.log("Dark mode is enabled.");
+      document.getElementById("darkModeContent").style.display = "block";
+    } else {
+      console.log("Light mode is enabled.");
+      document.getElementById("lightModeContent").style.display = "block";
+    }
+  }
+
+  // Call the function when the page loads
+  window.onload = displayContentBasedOnMode;
+</script>
 </head>
 <body>
 
@@ -26,6 +46,7 @@
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="205" height="150">
 </p>
 
+<!-- Other content -->
 <h3>Skills 🔨</h3>
 <ul>
     <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> </li>
@@ -48,8 +69,20 @@
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    <a href="https://github.com/btoksoez">cub3D</a> - Continuing to build upon the foundational skills acquired from <strong>so_long</strong>, I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my
+    <a href="https://github.com/btoksoez">cub3D</a> - Continuing to build upon the foundational skills acquired from <strong>so_long</strong>, I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my abilities in optimizing game rendering processes, further enriching my
+</p>
 
+<h3 align="left">Connect with me 🌐</h3>
+<p align="left">
+  <a href="mailto:fxandrealb@gmail.com" style="text-decoration: none; outline: none;">
+    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="40" height="40">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
+  </a>
+</p>
 
-<h3 align="left">Current Project 🔍
+</body>
+</html>
 
