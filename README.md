@@ -10,9 +10,9 @@
 
 
 
-<div style="display: inline-block; vertical-align: middle;">
+<div style="display: inline-block; vertical-align: middle; position: relative; top: -5px;">
     <h3 style="margin-right: 10px;">Skills 🛠</h3>
-    <span style="vertical-align: super;">Programming Languages:</span>
+    <span>Programming Languages:</span>
 </div>
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="vertical-align: middle;" width="40" height="40">
@@ -25,12 +25,6 @@ Other Skills and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" style="vertical-align: middle;" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" style="vertical-align: middle;" width="40" height="40">
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" style="vertical-align: middle;" width="40" height="40">
-
-
-
-
-
-
 
 
 
