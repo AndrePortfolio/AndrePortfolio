@@ -1,14 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Conditional Rendering Based on Dark Mode</title>
+</head>
+<body>
+
 <h1 align="center">Hello 👋🏼, I'm Andre Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
-<p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pmcXllOTZjbjF3b2Rlc3Nzd3k3NzI2Y3o5cnpmbGpjYm8yb2NyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeRw5kXQYjNYTySeq8/giphy.gif" width="205" height="150">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVyOHBuOTFkdDl4ZHV3YnIwa3NrMXpidXk1ajllMzQ5MGR1NGN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hid94QWWQZAijc8a7w/giphy.gif" width="205" height="150">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVmZ3h2OHNkbm44ZzV0dWI4NHg0aXh2dHh1Y29lbW44dzJ6M3JkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvpqTCiEcwtvx6wwJK/giphy.gif" width="205" height="150">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmdTcyNHJ1bWR1YnllZm5vdzAzeWJwY3VlMGhjOTV2djdoMXM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOKnXRcJIznT3jT62W/giphy.gif" width="205" height="150">
+<!-- Code to execute if it is on dark mode -->
+<p align="left" id="darkModeContent" style="display: none;">
+  <img src="https://media2.giphy.com/media/IeRw5kXQYjNYTySeq8/giphy.gif" width="205" height="150">
+  <img src="https://media2.giphy.com/media/TgCoVZRnk5gZU3uqMP/giphy.gif" width="205" height="150">
+  <img src="https://media4.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="205" height="150">
+  <img src="https://media1.giphy.com/media/cOKnXRcJIznT3jT62W/giphy.gif" width="205" height="150">
 </p>
 
-<h3>Skills 🔨</h2>
+<!-- Code to execute if it is on light mode -->
+<p align="left" id="lightModeContent" style="display: none;">
+  <img src="https://media.giphy.com/media/R0ErGoZ2b8c7VcYr6Q/giphy.gif" width="205" height="150">
+  <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="205" height="150">
+  <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="205" height="150">
+  <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="205" height="150">
+</p>
+
+<h3>Skills 🔨</h3>
 <ul>
     <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> </li>
     <li>Other Skills/Tools: 
@@ -43,7 +61,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
   </a>
 </p>
-    </div>
+
+<script>
+    // Check if prefers-color-scheme is supported
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        // Dark mode
+        console.log("Dark mode is enabled.");
+        document.getElementById("darkModeContent").style.display = "block";
+    } else {
+        // Light mode
+        console.log("Light mode is enabled.");
+        document.getElementById("lightModeContent").style.display = "block";
+    }
+</script>
+
 </body>
 </html>
 
