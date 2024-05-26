@@ -4,23 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Conditional Rendering Based on Dark Mode</title>
-<script>
-  // Function to toggle between light and dark mode
-  function toggleDarkMode() {
-    var darkModeContent = document.getElementById("darkModeContent");
-    var lightModeContent = document.getElementById("lightModeContent");
-    
-    if (darkModeContent.style.display === "none") {
-      darkModeContent.style.display = "block";
-      lightModeContent.style.display = "none";
-      console.log("Dark mode is enabled.");
-    } else {
-      darkModeContent.style.display = "none";
-      lightModeContent.style.display = "block";
-      console.log("Light mode is enabled.");
-    }
+<style>
+  /* CSS for hiding/showing content based on mode */
+  .dark-mode-content {
+    display: none;
   }
-</script>
+  .light-mode-content {
+    display: block;
+  }
+</style>
 </head>
 <body>
 
@@ -28,7 +20,7 @@
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <!-- Code to execute if it is on dark mode -->
-<p align="left" id="darkModeContent" style="display: none;">
+<p align="left" class="dark-mode-content">
   <img src="https://media2.giphy.com/media/IeRw5kXQYjNYTySeq8/giphy.gif" width="205" height="150">
   <img src="https://media2.giphy.com/media/TgCoVZRnk5gZU3uqMP/giphy.gif" width="205" height="150">
   <img src="https://media4.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="205" height="150">
@@ -36,7 +28,7 @@
 </p>
 
 <!-- Code to execute if it is on light mode -->
-<p align="left" id="lightModeContent" style="display: block;">
+<p align="left" class="light-mode-content">
   <img src="https://media.giphy.com/media/R0ErGoZ2b8c7VcYr6Q/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="205" height="150">
@@ -83,6 +75,19 @@
 <!-- Button to toggle dark mode -->
 <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
-</body>
-</html>
+<script>
+  // Function to toggle between light and dark mode
+  function toggleDarkMode() {
+    var darkModeContent = document.getElementsByClassName("dark-mode-content")[0];
+    var lightModeContent = document.getElementsByClassName("light-mode-content")[0];
+    
+    if (darkModeContent.style.display === "none") {
+      darkModeContent.style.display = "block";
+      lightModeContent.style.display = "none";
+      console.log("Dark mode is enabled.");
+    } else {
+      darkModeContent.style.display = "none";
+      lightModeContent.style.display = "block";
+      console.log("Light mode is enabled.");
+    }
 
