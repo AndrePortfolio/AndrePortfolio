@@ -12,12 +12,12 @@ Programming Languages:
 <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" width="40" height="40">
 
 Other Skills and tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1792px-Bash_Logo_black_and_white_icon_only.svg.png" width="40" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTErDd5tG9fDtgWt11AgKSo2PatxntBLoDQ5dF7BFtZpg&s" width="40" height="40">
 <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
-<img src="https://code.visualstudio.com/assets/branding/app-icon.png" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="40" height="40">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,4 +32,3 @@ Other Skills and tools:
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreportfolio&show_icons=true&locale=en&layout=compact" alt="andreportfolio" /></p>
-
