@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left" style="display: inline-block; vertical-align: middle; margin-bottom: -5px;">Skills 🛠</h3>
+<h3 align="left" style="display: inline-block; vertical-align: middle; margin-bottom: -30px;">Skills 🛠</h3>
 
 Programming Languages:
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="vertical-align: middle;" width="40" height="40">
