@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andre Albuquerque</h1>
+<h1 align="center">Hello 👋🏼, I'm Andre Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
-
-- 🔭 I’m currently working on [cub3D](https://github.com/btoksoez/cub3d.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
 <h3 align="left">Skills 🛠</h3>
 
@@ -34,3 +30,8 @@ Other Skills and tools:
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreportfolio&show_icons=true&locale=en&layout=compact" alt="andreportfolio" /></p>
+
+
+- 🔭 I’m currently working on [cub3D](https://github.com/btoksoez/cub3d.git)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
