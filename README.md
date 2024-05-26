@@ -26,8 +26,11 @@ Other Skills and tools:
 
 <h3 align="left">Favourite Projects 🗂️</h3>
 <a href="https://github.com/AndrePortfolio/so_long">so_long</a>
+<p align="left">
 <a href="https://github.com/AndrePortfolio/minishell">minishell</a>
+<p align="left">
 <a href="https://github.com/AndrePortfolio/push_swap">push_swap</a>
+<p align="left">
 <a href="https://github.com/btoksoez">cub3D</a>
 
 
