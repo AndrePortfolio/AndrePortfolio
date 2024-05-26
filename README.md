@@ -5,24 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Conditional Rendering Based on Dark Mode</title>
 <script>
-  // Function to check if the user prefers dark mode
-  function isDarkMode() {
-    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-  }
-
-  // Function to display content based on dark mode preference
-  function displayContentBasedOnMode() {
-    if (isDarkMode()) {
+  // Function to toggle between light and dark mode
+  function toggleDarkMode() {
+    var darkModeContent = document.getElementById("darkModeContent");
+    var lightModeContent = document.getElementById("lightModeContent");
+    
+    if (darkModeContent.style.display === "none") {
+      darkModeContent.style.display = "block";
+      lightModeContent.style.display = "none";
       console.log("Dark mode is enabled.");
-      document.getElementById("darkModeContent").style.display = "block";
     } else {
+      darkModeContent.style.display = "none";
+      lightModeContent.style.display = "block";
       console.log("Light mode is enabled.");
-      document.getElementById("lightModeContent").style.display = "block";
     }
   }
-
-  // Call the function when the page loads
-  window.onload = displayContentBasedOnMode;
 </script>
 </head>
 <body>
@@ -39,7 +36,7 @@
 </p>
 
 <!-- Code to execute if it is on light mode -->
-<p align="left" id="lightModeContent" style="display: none;">
+<p align="left" id="lightModeContent" style="display: block;">
   <img src="https://media.giphy.com/media/R0ErGoZ2b8c7VcYr6Q/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="205" height="150">
@@ -79,4 +76,13 @@
   </a>
   
   <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/204
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
+  </a>
+</p>
+
+<!-- Button to toggle dark mode -->
+<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
+</body>
+</html>
+
