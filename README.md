@@ -21,22 +21,6 @@
     </li>
 </ul>
 
-
-Programming Languages:
-<p align="left">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="40" height="40">
-<img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" width="40" height="40">
-
-Other Skills and tools:
-<p align="left">
-  <img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" width="40" height="40">
-  <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
-  <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
-</p>
-
 <h3 align="left">Favourite Projects 🗂️</h3>
 <ul>
     <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell implementation in C, gaining hands-on experience in system programming and bash scripting.</li>
