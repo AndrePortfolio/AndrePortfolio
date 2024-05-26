@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="200" height="150">
 </p>
 
-<h3 align="left" style="display: inline-block; vertical-align: middle;">Skills 🛠</h3>
+<h3 align="left" style="display: inline-block; vertical-align: middle; margin-bottom: 5px;">Skills 🛠</h3>
 
 Programming Languages:
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="40" height="40">
@@ -21,6 +21,7 @@ Other Skills and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
+
 
 
 
