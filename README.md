@@ -5,7 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
-- 📫 How to reach me **fxandrealb@gmail.com**
+📫 How to reach me:
+[![Gmail](https://image.flaticon.com/icons/png/512/281/281769.png)](mailto:fxandrealb@gmail.com)
+
+ **fxandrealb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
