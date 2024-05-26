@@ -6,7 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
 📫 How to reach me:
-[![Gmail](https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw)](mailto:fxandrealb@gmail.com)
+[<img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="50" height="50">](mailto:fxandrealb@gmail.com)
+
 
  **fxandrealb@gmail.com**
 
