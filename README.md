@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/idea-startup-nova-IeRw5kXQYjNYTySeq8/giphy.gif" width="205" height="150">
-  <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="205" height="150">
+  <img src="https://media.giphy.com/media/wearenovauk-startup-startups-tech-TgCoVZRnk5gZU3uqMP/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="205" height="150">
 </p>
