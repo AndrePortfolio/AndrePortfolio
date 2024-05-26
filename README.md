@@ -25,10 +25,11 @@ Other Skills and tools:
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
 <h3 align="left">Favourite Projects 🗂️</h3>
-<a href="https://example.com">Visit Example</a>
+<a href="https://github.com/AndrePortfolio/so_long">so_long</a>
+<a href="https://github.com/AndrePortfolio/minishell">minishell</a>
+<a href="https://github.com/AndrePortfolio/push_swap">push_swap</a>
+<a href="https://github.com/btoksoez">cub3D</a>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
