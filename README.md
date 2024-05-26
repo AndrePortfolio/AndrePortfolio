@@ -10,6 +10,19 @@
 
 <h3 align="left">Skills 🛠</h3>
 
+<h2>Skills 🔨</h2>
+<ul>
+    <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> </li>
+    <li>Other Skills/Tools: 
+        <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" height="40" align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="40" align="center">
+        <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png?raw=true" height="40" align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="40" align="center">
+    </li>
+</ul>
+
+
 Programming Languages:
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="40" height="40">
