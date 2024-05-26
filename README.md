@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
+<h3 align="left">Skills 🛠</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
