@@ -24,9 +24,7 @@ Other Skills and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
-<h3 align="left">Projects 🗂️</h3>
-- 🔭 I’m currently working on git@github.com:btoksoez/cub3d.git
-<p align="left">
+<h3 align="left">Favourite Projects 🗂️</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 <p align="left">
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
