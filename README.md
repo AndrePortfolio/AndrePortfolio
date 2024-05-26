@@ -6,14 +6,15 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
 <p align="left">
-  <a href="mailto:fxandrealb@gmail.com" style="padding-right: 20px;">
+  <a href="mailto:fxandrealb@gmail.com" style="text-decoration: none; outline: none;">
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="30" height="30">
   </a>
   
-  <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="30">
   </a>
 </p>
+
 
 
 
