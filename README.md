@@ -31,7 +31,7 @@ Other Skills and tools:
     <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - In this project I learned about sorting algorithms and sorted to stacks</li>
 </ol>
 
-<h3 align="left">cub3D Project 🔍</h3>
+<h3 align="left">Current Project 🔍</h3>
 <a href="https://github.com/btoksoez">cub3D</a> - This is the group project I am working on right now
 
 
