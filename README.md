@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="200" height="150">
 </p>
 
-<h3 align="left">Skills 🛠</h3>
-
 <h3 align="left" style="display: inline-block; vertical-align: middle;">Skills 🛠</h3>
 
 Programming Languages:
