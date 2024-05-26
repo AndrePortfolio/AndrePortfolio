@@ -2,8 +2,9 @@
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/4185/4185454.png" width="100" height="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hub2R3ZmliZWgwZzk3MGViMjZ2c3Y1eXV5eW0waDlwY2JhczkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="200" height="200"/>
 </p>
+
 
 <h3 align="left">Skills 🛠</h3>
 
