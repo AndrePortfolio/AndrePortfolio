@@ -33,7 +33,7 @@ Other Skills and tools:
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    <a href="https://github.com/btoksoez">cub3D</a> - Continuing to build upon the foundational skills acquired from "so_long," I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my abilities in optimizing game rendering processes, further enriching my expertise in game development.
+    <a href="https://github.com/btoksoez">cub3D</a> - Continuing to build upon the foundational skills acquired from <strong>so_long</strong>, I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my abilities in optimizing game rendering processes, further enriching my expertise in game development.
 </p>
 
 <h3 align="left">Connect with me 🌐</h3>
