@@ -25,11 +25,9 @@ Other Skills and tools:
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
 <h3 align="left">Favourite Projects 🗂️</h3>
-🔭 I’m currently working on <span style="cursor: pointer; text-decoration: underline;" onclick="window.open(https://github.com/btoksoez/cub3d.git, '_blank')">cub3D</span>
-<p align="left">
-- 👨‍💻 All of my projects are available at <a href="https://github.com/AndrePortfolio/42-Projects">https://github.com/AndrePortfolio/42-Projects</a>
-</p>
+- 🔭 I’m currently working on [cub3D](https://github.com/btoksoez/cub3d.git)
 
+- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
