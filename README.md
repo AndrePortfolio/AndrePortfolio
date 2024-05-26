@@ -26,7 +26,9 @@ Other Skills and tools:
 
 <h3 align="left">Projects 🗂️</h3>
 - 🔭 I’m currently working on [cub3D](https://github.com/btoksoez/cub3d.git)
+<p align="left">
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
+<p align="left">
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
 
