@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="205" height="150">
 </p>
 
-<h3 align="left">Skills 🛠</h3>
-
 <h2>Skills 🔨</h2>
 <ul>
     <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> </li>
@@ -19,6 +17,7 @@
         <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="40" align="center">
         <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png?raw=true" height="40" align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="40" align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="40" align="center">
     </li>
 </ul>
 
