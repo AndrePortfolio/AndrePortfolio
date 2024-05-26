@@ -10,17 +10,22 @@
 
 <h3 align="left">Skills 🛠</h3>
 
-Programming Languages: 
+Programming Languages:
+<br> <!-- Add a line break here -->
+
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="40" height="40">
 <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" width="40" height="40">
 
 Other Skills and tools:
+<br> <!-- Add a line break here -->
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTErDd5tG9fDtgWt11AgKSo2PatxntBLoDQ5dF7BFtZpg&s" width="40" height="40">
 <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
+
 
 
 <h3 align="left">Connect with me:</h3>
