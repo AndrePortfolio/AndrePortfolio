@@ -2,7 +2,7 @@
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/idea-startup-nova-IeRw5kXQYjNYTySeq8/giphy.gif" width="205" height="150">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmdTcyNHJ1bWR1YnllZm5vdzAzeWJwY3VlMGhjOTV2djdoMXM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOKnXRcJIznT3jT62W/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/wearenovauk-startup-startups-tech-TgCoVZRnk5gZU3uqMP/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="205" height="150">
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="205" height="150">
