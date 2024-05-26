@@ -8,17 +8,14 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:fxandrealb@gmail.com" style="margin-right: 20%;">
-    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="30" height="30">
+  <a href="mailto:fxandrealb@gmail.com">
+    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="30" height="30" style="display: inline-block; margin-right: 20px;">
   </a>
   
   <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="30" style="display: inline-block;">
   </a>
 </p>
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
