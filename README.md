@@ -16,7 +16,8 @@ Other Skills and tools:
 <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
-<img src="https://static-00.iconduck.com/assets.00/notion-icon-1964x2048-p7u8pn3c.png" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
+<img src="https://code.visualstudio.com/assets/branding/app-icon.png" width="40" height="40">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -31,3 +32,4 @@ Other Skills and tools:
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreportfolio&show_icons=true&locale=en&layout=compact" alt="andreportfolio" /></p>
+
