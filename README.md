@@ -17,7 +17,7 @@ Other Skills and tools:
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="40" height="40">
+<img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
 
 <h3 align="left">Connect with me:</h3>
