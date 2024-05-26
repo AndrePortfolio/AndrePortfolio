@@ -1,6 +1,10 @@
 <h1 align="center">Hello 👋🏼, I'm Andre Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/4185/4185454.png" width="100" height="100"/>
+</p>
+
 <h3 align="left">Skills 🛠</h3>
 
 Programming Languages: 
