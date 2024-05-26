@@ -17,7 +17,7 @@ Programming Languages:
 
 Other Skills and tools:
 <p align="left">
-  <img src="https://icon2.cleanpng.com/20180705/o/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571c35554.1325498915307871858001.jpg" width="40" height="40">
+  <img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" width="40" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
