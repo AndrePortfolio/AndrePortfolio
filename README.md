@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:fxandrealb@gmail.com" style="margin-right: 60px;">
+  <a href="mailto:fxandrealb@gmail.com" style="margin-right: 500px;">
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="30" height="30">
   </a>
   
