@@ -25,12 +25,15 @@ Other Skills and tools:
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
 <h3 align="left">Favourite Projects 🗂️</h3>
-<href="https://github.com/btoksoez">cub3D</a> - This is the group project I am working on right now</li>
 <ol>
     <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - In this group project we created our own shell, etc</li>
     <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - In this project I implemented a 2D game with the pokemon graphics</li>
     <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - In this project I learned about sorting algorithms and sorted to stacks</li>
 </ol>
+
+<h3 align="left">cub3D Project 🔍</h3>
+<a href="https://github.com/btoksoez">cub3D</a> - This is the group project I am working on right now
+
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
