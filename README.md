@@ -25,11 +25,11 @@ Other Skills and tools:
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
 <h3 align="left">Favourite Projects 🗂️</h3>
-<ol>
-    <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - In this group project we created our own shell, etc</li>
-    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - In this project I implemented a 2D game with the pokemon graphics</li>
-    <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - In this project I learned about sorting algorithms and sorted to stacks</li>
-</ol>
+<ul>
+    <li><strong>minishell:</strong> This group project involved the development of a custom shell, where we implemented various functionalities to mimic standard shell behavior, providing users with a seamless command-line interface experience.</li>
+    <li><strong>so_long:</strong> Within this project, I undertook the creation of a captivating 2D game enriched with Pokémon-themed graphics. The endeavor demanded meticulous attention to detail in both gameplay mechanics and visual aesthetics.</li>
+    <li><strong>push_swap:</strong> Through this project, I delved into the intricate world of sorting algorithms, gaining profound insights into their workings and applications. Leveraging stacks, I engineered efficient sorting mechanisms, further honing my problem-solving skills.</li>
+</ul>
 
 <h3 align="left">Current Project 🔍</h3>
 <a href="https://github.com/btoksoez">cub3D</a> - This is the group project I am working on right now
