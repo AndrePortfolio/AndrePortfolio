@@ -25,10 +25,7 @@ Other Skills and tools:
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
 
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🌐</h3>
 <p align="left">
   <a href="mailto:fxandrealb@gmail.com" style="text-decoration: none; outline: none;">
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="40" height="40">
