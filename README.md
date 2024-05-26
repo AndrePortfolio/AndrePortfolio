@@ -24,6 +24,11 @@ Other Skills and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
 <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
 
+<h3 align="left">Projects 🗂️</h3>
+- 🔭 I’m currently working on [cub3D](https://github.com/btoksoez/cub3d.git)
+- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
+
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
@@ -35,13 +40,6 @@ Other Skills and tools:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="www.linkedin.com/in/andré-albuquerque" height="40" width="40">
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreportfolio&show_icons=true&locale=en&layout=compact" alt="andreportfolio" /></p>
-
-
-- 🔭 I’m currently working on [cub3D](https://github.com/btoksoez/cub3d.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
     </div>
 </body>
 </html>
