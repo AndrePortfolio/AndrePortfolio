@@ -2,10 +2,8 @@
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="240" height="240">
+  <iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
-
-
 
 <h3 align="left">Skills 🛠</h3>
 
