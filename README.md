@@ -26,9 +26,9 @@ Other Skills and tools:
 
 <h3 align="left">Favourite Projects 🗂️</h3>
 🔭 I’m currently working on <a onclick="window.open('https://github.com/btoksoez/cub3d.git', '_blank')" style="cursor: pointer;">cub3D</a>
-- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 <p align="left">
-- 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/AndrePortfolio/42-Projects">https://github.com/AndrePortfolio/42-Projects</a>
+</p>
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
