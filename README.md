@@ -67,32 +67,5 @@
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="40" height="40">
   </a>
   
-  <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
-  </a>
-</p>
-
-<!-- Button to toggle dark mode -->
-<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
-
-<script>
-  // Function to toggle between light and dark mode
-  function toggleDarkMode() {
-    var darkModeContent = document.getElementsByClassName("dark-mode-content")[0];
-    var lightModeContent = document.getElementsByClassName("light-mode-content")[0];
-    
-    if (darkModeContent.style.display === "none") {
-      darkModeContent.style.display = "block";
-      lightModeContent.style.display = "none";
-      console.log("Dark mode is enabled.");
-    } else {
-      darkModeContent.style.display = "none";
-      lightModeContent.style.display = "block";
-      console.log("Light mode is enabled.");
-    }
-  }
-</script>
-
-</body>
-</html>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target
 
