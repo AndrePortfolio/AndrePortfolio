@@ -90,4 +90,9 @@
       lightModeContent.style.display = "block";
       console.log("Light mode is enabled.");
     }
+  }
+</script>
+
+</body>
+</html>
 
