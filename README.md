@@ -17,13 +17,13 @@ Programming Languages:
 
 Other Skills and tools:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1792px-Bash_Logo_black_and_white_icon_only.svg.png" width="40" height="40">
+  <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" width="40" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
-  <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" width="40" height="40">
-</p>
+  <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55a
+
 
 <h3 align="left">Favourite Projects 🗂️</h3>
 <ul>
