@@ -13,7 +13,7 @@
   </a>
   
   <a href="https://linkedin.com/in/www.linkedin.com/in/andré-albuquerque" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="30" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="www.linkedin.com/in/andré-albuquerque" height="30" width="30" style="display: inline-block;">
   </a>
 </p>
 
