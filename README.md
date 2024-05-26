@@ -9,6 +9,7 @@
 </p>
 
 <h3 align="left">Skills 🛠</h3>
+<h3 align="left">
 Programming Languages:
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="vertical-align: middle;" width="40" height="40">
 <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" style="vertical-align: middle;" width="40" height="40">
