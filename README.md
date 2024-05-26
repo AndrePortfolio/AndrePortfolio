@@ -1,8 +1,9 @@
 <h1 align="center">Hello 👋🏼, I'm Andre Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/S6agqOraQS41XKm3Yb/giphy.gif" width="200" height="150">
+  <img src="https://media.giphy.com/media/zmi796Qv8OjVGWpFeT/giphy.gif" width="200" height="150">
 </p>
 
 <h3 align="left">Skills 🛠</h3>
