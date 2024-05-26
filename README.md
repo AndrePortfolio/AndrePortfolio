@@ -3,8 +3,8 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/R0ErGoZ2b8c7VcYr6Q/giphy.gif" width="200" height="150">
-  <img src="https://media.giphy.com/media/nitdTjWRS7BYpN2sC7/giphy.gif" width="200" height="150">
-  <img src="https://media.giphy.com/media/ASMY8ZixKY7sohzPDU/giphy.gif" width="200" height="150">
+  <img src="https://media.giphy.com/media/YC7cyheiIMtZNIvsa5/giphy.gif" width="200" height="150">
+  <img src="https://media.giphy.com/media/jYv31ia7eN0ZYNIwpr/giphy.gif" width="200" height="150">
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="200" height="150">
 </p>
 
