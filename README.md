@@ -17,7 +17,7 @@ Programming Languages:
 
 Other Skills and tools:
 <p align="left">
-  <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" width="40" height="40">
+  <img src="https://i.imgur.com/Wv194Lb.png" width="40" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40">
