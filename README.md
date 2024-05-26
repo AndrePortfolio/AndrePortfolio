@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/Mt1zgxr1re5M1dHopE/giphy.gif" width="205" height="150">
 </p>
 
-<h2>Skills 🔨</h2>
+<h3>Skills 🔨</h2>
 <ul>
     <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> </li>
     <li>Other Skills/Tools: 
