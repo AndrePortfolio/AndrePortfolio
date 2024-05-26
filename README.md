@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋🏼, I'm Andre Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
-![OpenSea Item](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448000109187170305)
-
-
+<iframe src="https://giphy.com/embed/zgduo4kWRRDVK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK">via GIPHY</a></p>
 
 <h3 align="left">Skills 🛠</h3>
 
