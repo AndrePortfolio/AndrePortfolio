@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndrePortfolio/42-Projects](https://github.com/AndrePortfolio/42-Projects)
 
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:fxandrealb@gmail.com" style="text-decoration: none; outline: none;">
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" width="30" height="30">
