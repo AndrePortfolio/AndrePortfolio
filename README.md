@@ -25,12 +25,12 @@
 <ul>
     <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell implementation in C, gaining hands-on experience in system programming and bash scripting.</li>
     <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
-    <li><a href="https://github.com/AndrePortfolio/so_long">so_long</a> - In this project I honed my skills in graphics programming, bringing to life my first 2D mini-game inspired by the world of Pokémon.</li>
+    <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <strong>so_long</strong>, I explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.</li>
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    <a href="https://github.com/btoksoez/cub3d">cub3D</a> - Continuing to build upon the foundational skills acquired from <strong>so_long</strong>, I am now delving into the fascinating realm of raycasting techniques to simulate 3D representations. Through this project, I am not only mastering the art of applying mathematical concepts in programming but also refining my abilities in optimizing game rendering processes, further enriching my expertise in game development.
+    <a href="https://github.com/AndrePortfolio/cpp_modules">cpp's</a> - 
 </p>
 
 <h3 align="left">Connect with me 🌐</h3>
