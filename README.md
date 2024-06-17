@@ -30,7 +30,7 @@
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    <a href="https://github.com/AndrePortfolio/cpp_modules">cpp's</a> - 
+    <a href="https://github.com/AndrePortfolio/cpp_modules">cpp's</a> - I am beginning my journey into object-oriented programming with C++ by completing a variety of exercises that cover a wide range of topics.
 </p>
 
 <h3 align="left">Connect with me 🌐</h3>
