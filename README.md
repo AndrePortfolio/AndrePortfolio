@@ -30,7 +30,7 @@
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    <a href="https://github.com/AndrePortfolio/cpp_modules">cpp's</a> - I am beginning my journey into object-oriented programming with C++ by completing a variety of exercises that cover a wide range of topics.
+    Building on the knowledge acquired from <a href="https://github.com/AndrePortfolio/cpp_modules">cpp's</a>, I am currently working on a group project to develop an Internet Relay Chat (IRC) server in C++. This server will be fully compatible with an official client. You can find the project repository <a href="git@github.com:AndrePortfolio/ft_irc.git">here</a>.
 </p>
 
 <h3 align="left">Connect with me 🌐</h3>
