@@ -10,7 +10,7 @@
 
 <h3>Skills 🔨</h2>
 <ul>
-    <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw1ZQ69fffjaS2n14HUvVjn9&ust=1730018641515000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCKtejTq4kDFQAAAAAdAAAAABAE" height="40" align="center"> </li>
+    <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw1ZQ69fffjaS2n14HUvVjn9&ust=1730018641515000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCKtejTq4kDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" height="40" align="center"> </li>
     <li>Other Skills/Tools: 
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" height="40" align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" align="center">
