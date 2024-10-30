@@ -20,7 +20,7 @@
       <img src="https://github.com/user-attachments/assets/11d5c6fc-ec96-4e69-94f6-fd780b7e6122" height="40" align="center">
       <img src="https://github.com/user-attachments/assets/eb90bc89-c10b-4bbd-ac13-d3ba8308bd63" height="40" align="center">
       <img src="https://github.com/user-attachments/assets/c3d1fb5c-d96c-495e-9af6-2f2a31e1eb84" height="40" align="center">
-      <img src="https://github.com/user-attachments/assets/d90047db-0e95-43e7-84fe-d89e5d13e3d5" height="40" align="center">
+      <img src="https://github.com/user-attachments/assets/fb76f4dc-4e43-4174-96e9-0fc9eef35885" height="40" align="center">
     <li>
       Other Skills/Tools: 
         <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="40" align="center">
