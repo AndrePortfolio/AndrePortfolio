@@ -18,9 +18,9 @@
     <li>
       Secondary Languages:
       <img src="https://github.com/user-attachments/assets/11d5c6fc-ec96-4e69-94f6-fd780b7e6122" height="40" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" align="center">
-      <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" height="40" align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmaiTZYxnDIOPzKne53fMFyeR3c-7nX4gPQ&s" height="40" align="center">
+      <img src="https://github.com/user-attachments/assets/cfc5a364-3497-4884-a0ee-f5988450d289" height="40" align="center">
+      <img src="https://github.com/user-attachments/assets/c3d1fb5c-d96c-495e-9af6-2f2a31e1eb84" height="40" align="center">
+      <img src="https://github.com/user-attachments/assets/d90047db-0e95-43e7-84fe-d89e5d13e3d5" height="40" align="center">
     <li>
       Other Skills/Tools: 
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" height="40" align="center">
