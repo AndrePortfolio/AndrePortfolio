@@ -24,6 +24,7 @@
     <li>
       Other Skills/Tools: 
         <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="40" align="center">
+        <img src="https://e7.pngegg.com/pngimages/997/157/png-clipart-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports-thumbnail.png" height="40" align="center">
         <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png?raw=true" height="40" align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="40" align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" align="center">
