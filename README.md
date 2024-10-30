@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
-  <a href="mailto:fxandrealb@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fxandrealb@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" height="40" width="40">
   </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
