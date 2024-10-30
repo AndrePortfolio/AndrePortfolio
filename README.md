@@ -23,8 +23,8 @@
       <img src="https://github.com/user-attachments/assets/d90047db-0e95-43e7-84fe-d89e5d13e3d5" height="40" align="center">
     <li>
       Other Skills/Tools: 
-        <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png?raw=true" height="40" align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="40" align="center">
+        <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png?raw=true" height="40" align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="40" align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" align="center">
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" height="40" align="center">
