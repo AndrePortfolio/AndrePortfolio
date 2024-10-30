@@ -17,7 +17,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" align="center">
     <li>
       Secondary Languages:
-      <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" height="40" align="center">
+      <img src="https://github.com/user-attachments/assets/11d5c6fc-ec96-4e69-94f6-fd780b7e6122" height="40" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" align="center">
       <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" height="40" align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmaiTZYxnDIOPzKne53fMFyeR3c-7nX4gPQ&s" height="40" align="center">
