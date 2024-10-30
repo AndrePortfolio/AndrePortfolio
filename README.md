@@ -16,6 +16,12 @@
       <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" align="center"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" align="center">
     <li>
+      Secondary Languages:
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" align="center">
+      <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" height="40" align="center">
+      <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" height="40" align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmaiTZYxnDIOPzKne53fMFyeR3c-7nX4gPQ&s" height="40" align="center">
+    <li>
       Other Skills/Tools: 
         <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" height="40" align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" align="center">
