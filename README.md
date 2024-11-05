@@ -39,6 +39,7 @@
     <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
     <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, I explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.
      <li><a href="https://github.com/AndrePortfolio/form_fill_script">form_fill_script</a> - Inspired by my girlfriend's time-consuming form-filling at work, I applied the skills from CS50's Introduction to Python Programming to create a script that automates the process with just the press of Enter. This sparked my passion for automation.
+    <li><a href="https://git@github.com:AndrePortfolio/finance_app.git">finance_app</a> - Inspired by 
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
