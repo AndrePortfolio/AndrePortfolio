@@ -38,13 +38,14 @@
     <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, I explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.
     <li><a href="https://github.com/AndrePortfolio/pomodoro.git">pomodoro_app</a> - A Pomodoro web application built with Flask in Python. It includes user authentication, a work-session timer, detailed statistics, a dynamic calendar, and leaderboards to compare user performance. Powered by a SQL database, the front-end is designed with HTML and CSS for a seamless user experience.
     <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell implementation in C, gaining hands-on experience in system programming and bash scripting.</li>
-     <li><a href="https://github.com/AndrePortfolio/form_fill_script">script</a> - Inspired by my girlfriend's time-consuming form-filling at work, I applied the skills from CS50's Introduction to Python Programming to create a script that automates the process with just the press of Enter. This sparked my passion for automation.
+    <li><a href="https://github.com/AndrePortfolio/form_fill_script">script</a> - Inspired by my girlfriend's time-consuming form-filling at work, I applied the skills from CS50's Introduction to Python Programming to create a script that automates the process with just the press of Enter. This sparked my passion for automation.
     <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
+    <li> <a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - A project developed collaboratively by a team of two, <strong>ft_irc</strong> is a C++ server implementation for an Internet Relay Chat (IRC) system. Built on the foundation of knowledge gained from the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a> course, this server is designed to be fully compatible with standard IRC clients, demonstrating advanced programming skills and teamwork.</li>
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
 <p>
-    Building on the knowledge acquired from <a href="https://github.com/AndrePortfolio/cpp_modules">cpp's</a>, I am currently working on a group project to develop an <a href="https://github.com/AndrePortfolio/ft_irc">IRC</a> server (Internet Relay Chat) in C++. This server will be fully compatible with an official client.
+    B
 </p>
 
 <h3 align="left">Connect with me 🌐</h3>
