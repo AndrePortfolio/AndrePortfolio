@@ -50,9 +50,9 @@
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
-<p>
-    B
-</p>
+<ul>
+  <li><a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a> - A system administration project where I set up an infrastructure using Docker containers for services like NGINX, WordPress, and MariaDB. This project deepened my understanding of containerization, Docker Compose, and configuring services with TLS for secure connections. It also taught best practices for writing Dockerfiles and setting up environment variables for better security and management.</li>
+</ul>
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
