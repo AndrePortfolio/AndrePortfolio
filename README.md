@@ -36,10 +36,10 @@
 <h3 align="left">My Projects 🗂️</h3>
 <ul>
   <li><a href="https://github.com/AndrePortfolio/pomodoro.git">pomodoro_app</a> - A Pomodoro web application built with Flask in Python. It includes user authentication, a work-session timer, detailed statistics, a dynamic calendar, and leaderboards to compare user performance. Powered by a SQL database, the front-end is designed with HTML and CSS for a seamless user experience.
-  <li><a href="https://github.com/AndrePortfolio/form_fill_script">script</a> - Inspired by my girlfriend's time-consuming form-filling at work, I applied the skills from CS50's Introduction to Python Programming to create a script that automates the process with just the press of Enter. This sparked my passion for automation.
   <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
   <li><a href="https://github.com/AndrePortfolio/philo">philosophers</a> - A C implementation of the classic Dining Philosophers problem, utilizing threads to manage concurrency and synchronization. This project deepened my understanding of multithreading, mutexes, and deadlock prevention.</li>
   <li><a href="https://github.com/AndrePortfolio/finance_app">finance_app</a> - Developed a simulator of a brokerage account where users could buy and sell stocks, view their transaction history, and manage their portfolios. This project involved exploring and applying various sorting algorithms to efficiently sort data and enhance problem-solving skills. The app was built using HTML, CSS, JavaScript, Python with Flask, and SQL for data management.</li>
+  <li><a href="https://github.com/AndrePortfolio/form_fill_script">script</a> - Inspired by my girlfriend's time-consuming form-filling at work, I applied the skills from CS50's Introduction to Python Programming to create a script that automates the process with just the press of Enter. This sparked my passion for automation.
 </ul>
 
 <h3 align="left">Team Projects 🗂️</h3>
