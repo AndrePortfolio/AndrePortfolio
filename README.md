@@ -44,8 +44,9 @@
 <h3 align="left">Group Projects 🗂️</h3>
 <ul>
   <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, I explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.
-  <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - Collaborated on developing a custom shell implementation in C, gaining hands-on experience in system programming and bash scripting.</li>
-  <li> <a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - A project developed collaboratively by a team of two, <strong>ft_irc</strong> is a C++ server implementation for an Internet Relay Chat (IRC) system. Built on the foundation of knowledge gained from the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a> course, this server is designed to be fully compatible with standard IRC clients, demonstrating advanced programming skills and teamwork.</li>
+  <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - A custom shell implementation in C, providing hands-on experience in system programming, process and memory management. This project enhanced my understanding of low-level system calls, signal handling, parsing command-line inputs, implementing built-in shell commands, and working with pipes (further explored in my <a href="https://github.com/AndrePortfolio/pipex">pipex</a> project) for inter-process communication. It also strengthened my ability to work with file I/O and manage concurrent processes.</li>
+  <li><a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - A C++ server implementation for an Internet Relay Chat system. Built on the foundation of knowledge gained from the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a>, this server demonstrates skills in developing networked applications, working with sockets, and handling client-server communication. It is designed to be fully compatible with standard IRC clients.</li>
+
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
