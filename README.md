@@ -33,7 +33,7 @@
     </li>
 </ul>
 
-<h3 align="left">My Projects 🗂️</h3>
+<h3 align="left">Favourite Projects 🗂️</h3>
 <ul>
   <li><a href="https://github.com/AndrePortfolio/pomodoro.git">pomodoro_app</a> - A Pomodoro web application built with Flask in Python. It includes user authentication, a work-session timer, detailed statistics, a dynamic calendar, and leaderboards to compare user performance. Powered by a SQL database, the front-end is designed with HTML and CSS for a seamless user experience.
   <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
