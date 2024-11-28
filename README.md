@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏼, I'm André Albuquerque</h1>
+<h1 align="center">Hello 👋🏼 I'm André Albuquerque</h1>
 <h3 align="center">I study computer science at 42 Lisboa</h3>
 
 <p align="left">
