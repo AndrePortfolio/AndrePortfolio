@@ -50,7 +50,9 @@
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
-<ul> <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from *born2beroot*, focusing on setting up an infrastructure using Docker containers for services like NGINX, WordPress, and MariaDB. Currently in progress, this project enhances my skills in containerization and secure service configuration.</li> </ul>
+<ul>
+  <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from <a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a>, focusing on setting up an infrastructure using Docker containers for services like NGINX, WordPress, and MariaDB. Currently in progress, this project enhances my skills in containerization and secure service configuration.</li>
+</ul>
 
 <h3 align="left">Connect with me 🌐</h3>
 <p align="left">
