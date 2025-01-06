@@ -51,7 +51,7 @@
 
 <h3 align="left">Current Project 🔍</h3>
 <ul>
-   <li><a href="https://github.com/goncalo1021pt/ft_transcendence">ft_transcendence</a> A group project to build an advanced online Pong platform featuring real-time multiplayer, user management, and modular enhancements like AI opponents, live chat, and 3D graphics. Focused on secure Docker deployment, it challenges teams to create a scalable and interactive gaming experience.
+   <li><a href="https://github.com/goncalo1021pt/ft_transcendence">ft_transcendence</a> - A group project to build an advanced online Pong platform featuring real-time multiplayer, user management, and modular enhancements like AI opponents, live chat, and 3D graphics. Focused on secure Docker deployment, it challenges teams to create a scalable and interactive gaming experience.
 </ul>
 
 <h3 align="left">Connect with me 🌐</h3>
