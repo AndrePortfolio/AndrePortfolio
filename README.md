@@ -46,11 +46,12 @@
   <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, We explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.
   <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - A custom shell implementation in C, providing hands-on experience in system programming, process and memory management. This project enhanced my understanding of low-level system calls, signal handling, parsing command-line inputs, implementing built-in shell commands, and working with pipes (skill aquired from <a href="https://github.com/AndrePortfolio/pipex">pipex</a> project) for inter-process communication. It also strengthened my ability to work with file I/O and manage concurrent processes.</li>
   <li><a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - Built on the foundation of the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a>, this C++ server implementation for an Internet Relay Chat system enhanced my skills in networked applications, socket programming, and client-server communication. It is fully compatible with standard IRC clients.</li>
+  <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from <a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a>, focusing on setting up an infrastructure using Docker containers for services like NGINX, WordPress, and MariaDB. Currently in progress, this project enhances my skills in containerization and secure service configuration.</li>
 </ul>
 
 <h3 align="left">Current Project 🔍</h3>
 <ul>
-  <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from <a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a>, focusing on setting up an infrastructure using Docker containers for services like NGINX, WordPress, and MariaDB. Currently in progress, this project enhances my skills in containerization and secure service configuration.</li>
+   <li><a href="https://github.com/goncalo1021pt/ft_transcendence">ft_transcendence</a>
 </ul>
 
 <h3 align="left">Connect with me 🌐</h3>
