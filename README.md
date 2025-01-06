@@ -39,7 +39,7 @@
   <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
   <li><a href="https://github.com/AndrePortfolio/philosophers">philosophers</a> - A C implementation of the classic Dining Philosophers problem, utilizing threads to manage concurrency and synchronization. This project deepened my understanding of multithreading, mutexes, and deadlock prevention.</li>
   <li><a href="https://github.com/AndrePortfolio/form_fill_script">form_script</a> - Inspired by my girlfriend's time-consuming form-filling at work, I applied the skills from CS50's Introduction to Python Programming to create a script that automates the process with just the press of Enter. This sparked my passion for automation.
-  <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from <a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a>, focusing on setting up an infrastructure using Docker containers for services like NGINX, WordPress, and MariaDB. Currently in progress, this project enhances my skills in containerization and secure service configuration.</li>
+  <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from <a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a>, I’m using Docker to set up NGINX, WordPress, and MariaDB. This project sharpens my containerization and secure configuration skills.</li>
 </ul>
 
 <h3 align="left">Team Projects 🗂️</h3>
