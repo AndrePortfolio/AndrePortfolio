@@ -34,9 +34,9 @@
 </ul>
 <br>
 
-<h2 align="left">🎯 Current Focus</h2>
+<h2 align="left">🚀 Projects in Action</h2>
 <p>
-  Through my freelance business <a href="https://ai-automagic.com" target="_blank"><strong>Automagic</strong></a>, 
+  Through my freelance business <a href="https://ai-automagic.com" target="_blank">Automagic</a>, 
   I build full-stack AI applications and custom automation systems tailored to each client's workflow.
 </p>
 <p>My work spans a wide range of industries and technical challenges:</p>
