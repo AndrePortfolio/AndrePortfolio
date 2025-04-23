@@ -33,7 +33,7 @@
     </li>
 </ul>
 
-<h3 align="left">Favourite Projects 🗂️</h3>
+<h3 align="left">Personal Projects 🗂️</h3>
 <ul>
   <li><a href="https://github.com/AndrePortfolio/pomodoro.git">pomodoro_app</a> - Bulding on the skills developed through <a href="https://github.com/AndrePortfolio/finance_app">finance_app</a> I developed a Pomodoro web application built with Python. (Flask) It includes user authentication, a work-session timer, detailed statistics, a dynamic calendar, and leaderboards to compare user performance. Powered by a SQL database, the front-end is designed with HTML, CSS and Javascript for a seamless user experience.
   <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
@@ -44,14 +44,15 @@
 
 <h3 align="left">Team Projects 🗂️</h3>
 <ul>
-  <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, We explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.
+  <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, We explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.</li>
   <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - A custom shell implementation in C, providing hands-on experience in system programming, process and memory management. This project enhanced my understanding of low-level system calls, signal handling, parsing command-line inputs, implementing built-in shell commands, and working with pipes (skill aquired from <a href="https://github.com/AndrePortfolio/pipex">pipex</a> project) for inter-process communication. It also strengthened my ability to work with file I/O and manage concurrent processes.</li>
   <li><a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - Built on the foundation of the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a>, this C++ server implementation for an Internet Relay Chat system enhanced my skills in networked applications, socket programming, and client-server communication. It is fully compatible with standard IRC clients.</li>
+  <li><a href="https://github.com/goncalo1021pt/ft_transcendence">ft_transcendence</a> - A full-stack web application built as the final project at 42, combining frontend, backend, and DevOps skills. The platform includes a real-time multiplayer Pong game (built with WebSockets), user authentication with 2FA, profile management, chat, and a competitive ladder system. Developed collaboratively using Docker, PostgreSQL, Django, and modern JavaScript frameworks, it emphasizes clean architecture, security, and real-time interactions.</li>
 </ul>
 
-<h3 align="left">Current Project 🔍</h3>
+<h3 align="left">Current Projects 🔍</h3>
 <ul>
-   <li><a href="https://github.com/goncalo1021pt/ft_transcendence">ft_transcendence</a> - A group project to build an advanced online Pong platform featuring real-time multiplayer, user management, and modular enhancements like AI opponents, live chat, and 3D graphics. Focused on secure Docker deployment, it challenges teams to create a scalable and interactive gaming experience.
+   <li>I'm operating as a freelancer for multiple clients. I'm developing fullstack AI Applications and custom automations for bussinesses.
 </ul>
 
 <h3 align="left">Connect with me 🌐</h3>
