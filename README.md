@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏼 I'm André Albuquerque</h1>
-<h3 align="center">I'm a Computer Science Graduate from 42 Lisboa</h3>
+<h3 align="center">I'm a Computer Science Graduate from 42 Lisbon</h3>
 
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pmcXllOTZjbjF3b2Rlc3Nzd3k3NzI2Y3o5cnpmbGpjYm8yb2NyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeRw5kXQYjNYTySeq8/giphy.gif" width="205" height="150">
