@@ -8,7 +8,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmdTcyNHJ1bWR1YnllZm5vdzAzeWJwY3VlMGhjOTV2djdoMXM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOKnXRcJIznT3jT62W/giphy.gif" width="205" height="150">
 </p>
 
-<h3>🔨 Skills</h2>
+<h2>🔨 Skills</h2>
 <ul>
     <li>
       Programming Languages:
@@ -33,7 +33,7 @@
     </li>
 </ul>
 
-<h3 align="left">🚀 Ongoing Workh3>
+<h3 align="left">🚀 Ongoing Work</h3>
 <ul>
   <li>Currently working as a freelancer for multiple clients, building full-stack AI applications and developing tailored automation solutions for businesses.</li>
 </ul>
