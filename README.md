@@ -8,7 +8,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmdTcyNHJ1bWR1YnllZm5vdzAzeWJwY3VlMGhjOTV2djdoMXM0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOKnXRcJIznT3jT62W/giphy.gif" width="205" height="150">
 </p>
 
-<h3>Skills 🔨</h2>
+<h3>🔨 Skills</h2>
 <ul>
     <li>
       Programming Languages:
@@ -33,7 +33,13 @@
     </li>
 </ul>
 
-<h3 align="left">Personal Projects 🗂️</h3>
+<h3 align="left">🚀 Ongoing Workh3>
+<ul>
+  <li>Currently working as a freelancer for multiple clients, building full-stack AI applications and developing tailored automation solutions for businesses.</li>
+</ul>
+
+<h2 align="left">📁 Portfolio</h2>
+<h3 align="left">🗂️ Personal Projects</h3>
 <ul>
   <li><a href="https://github.com/AndrePortfolio/pomodoro.git">pomodoro_app</a> - Bulding on the skills developed through <a href="https://github.com/AndrePortfolio/finance_app">finance_app</a> I developed a Pomodoro web application built with Python. (Flask) It includes user authentication, a work-session timer, detailed statistics, a dynamic calendar, and leaderboards to compare user performance. Powered by a SQL database, the front-end is designed with HTML, CSS and Javascript for a seamless user experience.
   <li><a href="https://github.com/AndrePortfolio/push_swap">push_swap</a> - Explored and applied various sorting algorithms, implementing them to efficiently sort stacks and enhancing my problem-solving skills.</li>
@@ -42,7 +48,7 @@
   <li><a href="https://github.com/AndrePortfolio/inception">Inception</a> - A project building on my experience with VMs from <a href="https://github.com/AndrePortfolio/born2beroot">born2beroot</a>, I’m using Docker to set up NGINX, WordPress, and MariaDB. This project sharpens my containerization and secure configuration skills.</li>
 </ul>
 
-<h3 align="left">Team Projects 🗂️</h3>
+<h3 align="left">🗂️ Team Projects</h3>
 <ul>
   <li><a href="https://github.com/AndrePortfolio/ft_transcendence">ft_transcendence</a> - A full-stack web application built as the final project at 42. The platform includes a real-time multiplayer Pong game (built with WebSockets), user authentication with 2FA, profile management, and a competitive ladder system. Developed collaboratively using Docker, PostgreSQL, Django, and JavaScript frameworks, it emphasizes clean architecture, security, and real-time interactions.</li>
   <li><a href="https://github.com/AndrePortfolio/cub3d">cub3d</a> - Building on the foundational skills from <a href="https://github.com/AndrePortfolio/so_long">so_long</a>, We explored raycasting techniques to simulate 3D representations. This project enhanced my mathematical application in programming and honed my ability to optimize game rendering, further deepening my expertise in game development.</li>
@@ -50,12 +56,7 @@
   <li><a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - Built on the foundation of the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a>, this C++ server implementation for an Internet Relay Chat system enhanced my skills in networked applications, socket programming, and client-server communication. It is fully compatible with standard IRC clients.</li>
 </ul>
 
-<h3 align="left">Current Projects 🔍</h3>
-<ul>
-   <li>I'm operating as a freelancer for multiple clients. I'm developing fullstack AI Applications and custom automations for bussinesses.
-</ul>
-
-<h3 align="left">Connect with me 🌐</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fxandrealb@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" height="40" width="40">
