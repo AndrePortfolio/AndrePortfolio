@@ -32,7 +32,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="40" align="center">
     </li>
 </ul>
-<p style="margin-bottom: 24px;"></p>
+<p>&nbsp;</p>
 
 <h2 align="left">🎯 Current Focus</h2>
 <p>
@@ -48,7 +48,7 @@
 <p>
   These projects reflect my passion for automation, my adaptability across tech stacks, and my focus on delivering real, impactful solutions.
 </p>
-<p style="margin-bottom: 24px;"></p>
+<p>&nbsp;</p>
 
 <h2 align="left">📁 Portfolio</h2>
 <h3 align="left">🗂️ Personal Projects</h3>
