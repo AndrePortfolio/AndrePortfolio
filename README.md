@@ -34,9 +34,19 @@
 </ul>
 
 <h2 align="left">🎯 Current Focus</h2>
+<p>
+  Through my freelance business <a href="https://ai-automagic.com" target="_blank"><strong>Automagic</strong></a>, 
+  I build full-stack AI applications and custom automation systems tailored to each client's workflow.
+</p>
+<p>My work spans a wide range of industries and technical challenges:</p>
 <ul>
-  <li>Through my freelance business <a href="https://ai-automagic.com/">Automagic</a>, I develop full-stack AI applications and custom automation systems tailored to each client's business needs.</li>
+  <li>🦷 <strong>Dental Clinic:</strong> Developed an AI-powered voice agent and chatbot with a dashboard for managing appointments and user inquiries.</li>
+  <li>🪐 <strong>Astrologist:</strong> Built a moon-phase calendar app with real-time planetary data, customized visuals, and sign tracking.</li>
+  <li>🚗 <strong>Renault Portugal:</strong> Created an automation script to streamline part of their post-sales process, improving efficiency and accuracy.</li>
 </ul>
+<p>
+  These projects reflect my passion for automation, my adaptability across tech stacks, and my focus on delivering real, impactful solutions.
+</p>
 
 <h2 align="left">📁 Portfolio</h2>
 <h3 align="left">🗂️ Personal Projects</h3>
