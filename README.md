@@ -33,9 +33,9 @@
     </li>
 </ul>
 
-<h2 align="left">🛠️ What I’m Building</h2>
+<h2 align="left">🎯 Current Focus</h2>
 <ul>
-  <li>Through my freelance business <strong>AI Automagic</strong>, I develop full-stack AI applications and custom automation systems tailored to each client's business needs.</li>
+  <li>Through my freelance business <a href="https://ai-automagic.com/">Automagic</a>, I develop full-stack AI applications and custom automation systems tailored to each client's business needs.</li>
 </ul>
 
 <h2 align="left">📁 Portfolio</h2>
