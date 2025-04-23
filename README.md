@@ -32,7 +32,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="40" align="center">
     </li>
 </ul>
-<p>&nbsp;</p>
+<br>
 
 <h2 align="left">🎯 Current Focus</h2>
 <p>
@@ -48,7 +48,7 @@
 <p>
   These projects reflect my passion for automation, my adaptability across tech stacks, and my focus on delivering real, impactful solutions.
 </p>
-<p>&nbsp;</p>
+<br>
 
 <h2 align="left">📁 Portfolio</h2>
 <h3 align="left">🗂️ Personal Projects</h3>
@@ -67,6 +67,7 @@
   <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - A custom shell implementation in C, providing hands-on experience in system programming, process and memory management. This project enhanced my understanding of low-level system calls, signal handling, parsing command-line inputs, implementing built-in shell commands, and working with pipes (skill aquired from <a href="https://github.com/AndrePortfolio/pipex">pipex</a> project) for inter-process communication. It also strengthened my ability to work with file I/O and manage concurrent processes.</li>
   <li><a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - Built on the foundation of the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a>, this C++ server implementation for an Internet Relay Chat system enhanced my skills in networked applications, socket programming, and client-server communication. It is fully compatible with standard IRC clients.</li>
 </ul>
+<br>
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
