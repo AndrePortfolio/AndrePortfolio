@@ -67,14 +67,3 @@
   <li><a href="https://github.com/AndrePortfolio/minishell">minishell</a> - A custom shell implementation in C, providing hands-on experience in system programming, process and memory management. This project enhanced my understanding of low-level system calls, signal handling, parsing command-line inputs, implementing built-in shell commands, and working with pipes (skill aquired from <a href="https://github.com/AndrePortfolio/pipex">pipex</a> project) for inter-process communication. It also strengthened my ability to work with file I/O and manage concurrent processes.</li>
   <li><a href="https://github.com/AndrePortfolio/ft_irc">ft_irc</a> - Built on the foundation of the <a href="https://github.com/AndrePortfolio/cpp_modules">cpp_modules</a>, this C++ server implementation for an Internet Relay Chat system enhanced my skills in networked applications, socket programming, and client-server communication. It is fully compatible with standard IRC clients.</li>
 </ul>
-<br>
-
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fxandrealb@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" height="40" width="40">
-  </a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Profile" height="40" width="40">
-  </a>
-</p>
