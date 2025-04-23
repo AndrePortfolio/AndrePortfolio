@@ -41,8 +41,8 @@
 <p>My work spans a wide range of industries and technical challenges:</p>
 <ul>
   <li>🦷 <strong>Dental Clinic:</strong> Developed an AI-powered voice agent and chatbot with a dashboard for managing appointments and user inquiries.</li>
+  <li>🚗 <strong>Renault Portugal:</strong> Automated a repetitive HR form-filling process with a custom script, significantly reducing manual input and saving valuable time for the team.</li>
   <li>🪐 <strong>Astrologist:</strong> Built a moon-phase calendar app with real-time planetary data, customized visuals, and sign tracking.</li>
-  <li>🚗 <strong>Renault Portugal:</strong> Created an automation script to streamline part of their post-sales process, improving efficiency and accuracy.</li>
 </ul>
 <p>
   These projects reflect my passion for automation, my adaptability across tech stacks, and my focus on delivering real, impactful solutions.
